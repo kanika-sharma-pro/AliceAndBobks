@@ -14,7 +14,7 @@ public class Main {
     }
 
 
-    public void compute() {
+    public static void compute() {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter your name");
         String name = in.nextLine();
